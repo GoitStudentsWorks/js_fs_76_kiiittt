@@ -2,10 +2,11 @@
   "name": "vanilla-app-template",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://GoitStudentsWorks.github.io/js_fs_76_kiiittt",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/books-store-3/",
+    "build": "vite build --base=/js_fs_76_kiiittt/",
     "preview": "vite preview"
   },
   "devDependencies": {
